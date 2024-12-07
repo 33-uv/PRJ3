@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(115, 192, 247);
+    color: rgb(11, 41, 67);
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+button{
+    width: 400px;
+    height: 50px;
+    border-radius: 40px;
+    background-color: rgb(171, 144, 233);
+    color: rgb(67, 0, 252);;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+input{
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
